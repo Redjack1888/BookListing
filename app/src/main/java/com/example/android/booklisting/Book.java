@@ -31,7 +31,6 @@ public class Book implements Parcelable {
         mTitle = in.readString();
     }
 
-
     /**
      * Get the author of the book.
      */

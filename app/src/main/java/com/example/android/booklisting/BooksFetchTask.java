@@ -33,7 +33,7 @@ public class BooksFetchTask extends AsyncTask<String, Void, ArrayList<Book>> {
     /**
      * Takes the String representing the complete book list in JSON Format and
      * pull out the data we need to construct the Strings needed for the book list.
-     * <p>
+     *
      * Constructor takes the JSON string and converts it
      * into an Object hierarchy.
      */
