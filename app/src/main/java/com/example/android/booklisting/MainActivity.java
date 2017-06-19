@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
             mBookAdapter.clear();
         }
 
-
     }
 
     /**
