@@ -116,6 +116,15 @@ public class MainActivity extends AppCompatActivity {
         }
         mBookAdapter.notifyDataSetChanged();
         progressBar.setVisibility(ProgressBar.GONE);
+        // If query search returns no results
+        if (mBookAdapter.isEmpty()){
+
+            mListView.setEmptyView(emptyView); // ListView when empty
+            emptyImage.setImageResource(R.drawable.empty_query);
+            emptyTitleText.setText(R.string.no_query_result);
+            emptySubTitleText.setText(R.string.no_query_solution_message);
+
+        }
     }
 
     @Override
