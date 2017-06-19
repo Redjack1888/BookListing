@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <dimen name="margin_padding_8">8dp</dimen>
+    <dimen name="margin_top_50">50dp</dimen>
+    <dimen name="book_title_size">18sp</dimen>
+    <dimen name="book_author_size">18sp</dimen>
+
+</resources>

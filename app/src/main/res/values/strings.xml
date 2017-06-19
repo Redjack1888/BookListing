@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="search">Search</string>
+    <string name="search_title">Search Books</string>
+    <string name="action_search_hint">Search book by Title or Author</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No Book Information Available</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a item [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Start your search for new books</string>
+
+    <!-- Connection Error text for the empty view -->
+    <string name="error_no_internet">No internet connection available</string>
+    <string name="no_connection_subtext">Please verify your internet connection and try again later.</string>
+
+
+
+</resources>
