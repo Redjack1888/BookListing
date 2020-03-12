@@ -16,3 +16,18 @@ This project is about combining various ideas and skills we’ve been practicing
 * Parsing a JSON response
 * Creating a list based on that data and displaying it to the user.
 
+## Screenshots
+<table style="margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984195.png" width="250" height="444" /></td>
+<td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984300.png" width="250" height="444" /></td>
+<td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984317.png" width="250" height="444" /></td>
+</tr>
+<tr>
+<td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984321.png" width="250" height="444" /></td>
+<td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984621.png" width="250" height="444" /></td>
+<td></td>
+</tr>
+</tbody>
+</table>
