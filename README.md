@@ -1,4 +1,6 @@
 # BookListing
+![Cover](/assets/smartmockups_k7o7pqvx.jpg)
+
 Book Listing App (Project 7) for "Android Basics by Google Nanodegree Program" - (EU Scholarship) by Udacity
 
 ## Project Overview
