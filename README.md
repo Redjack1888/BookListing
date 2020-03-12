@@ -35,8 +35,6 @@ This project is about combining various ideas and skills we’ve been practicing
 <tbody>
 <tr>
 <td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984656.png" width="355" height="200" /></td>
-</tr>
-<tr>
 <td><img src="https://github.com/Redjack1888/BookListing/blob/master/assets/Screenshot_1583984686.png" width="355" height="200" /></td>
 </tr>
 </tbody>
